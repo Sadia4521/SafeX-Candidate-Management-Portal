@@ -14,7 +14,7 @@ This project demonstrates the implementation of multiple dashboard modules commo
 
 ![alt text](image-2.png)
 
-![alt text](image-3.png)
+<img width="958" height="430" alt="image" src="https://github.com/user-attachments/assets/a8df9c08-2a2c-400b-b949-bb126d08c48d" />
 
 Example:
 
